@@ -17,7 +17,7 @@
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
 <td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">365696</td>
+<td bgcolor="#eeeeec" align="right">364896</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/harrypapas/Local Sites/harry-papas-portfolio/app/public/wp-content/themes/perfect-portfolio/template-parts/content-single.php" bgcolor="#eeeeec">.../content-single.php<b>:</b>0</td>
 </tr>

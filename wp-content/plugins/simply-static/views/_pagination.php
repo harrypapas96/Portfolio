@@ -18,8 +18,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">366216</td>
+<td bgcolor="#eeeeec" align="center">0.0000</td>
+<td bgcolor="#eeeeec" align="right">364904</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/harrypapas/Local Sites/harry-papas-portfolio/app/public/wp-content/plugins/simply-static/views/_pagination.php" bgcolor="#eeeeec">.../_pagination.php<b>:</b>0</td>
 </tr>

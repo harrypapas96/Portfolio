@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">367272</td>
+<td bgcolor="#eeeeec" align="center">0.0000</td>
+<td bgcolor="#eeeeec" align="right">365736</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/harrypapas/Local Sites/harry-papas-portfolio/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/FunctionNode.php" bgcolor="#eeeeec">.../FunctionNode.php<b>:</b>0</td>
 </tr>

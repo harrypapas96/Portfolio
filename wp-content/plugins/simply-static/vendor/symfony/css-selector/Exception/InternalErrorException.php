@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0001</td>
-<td bgcolor="#eeeeec" align="right">366072</td>
+<td bgcolor="#eeeeec" align="center">0.0000</td>
+<td bgcolor="#eeeeec" align="right">365240</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/harrypapas/Local Sites/harry-papas-portfolio/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/InternalErrorException.php" bgcolor="#eeeeec">.../InternalErrorException.php<b>:</b>0</td>
 </tr>

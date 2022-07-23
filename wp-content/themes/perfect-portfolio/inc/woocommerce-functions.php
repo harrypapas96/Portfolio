@@ -16,8 +16,8 @@
 </tr>
 <tr>
 <td bgcolor="#eeeeec" align="center">1</td>
-<td bgcolor="#eeeeec" align="center">0.0002</td>
-<td bgcolor="#eeeeec" align="right">366392</td>
+<td bgcolor="#eeeeec" align="center">0.0000</td>
+<td bgcolor="#eeeeec" align="right">364888</td>
 <td bgcolor="#eeeeec">{main}(  )</td>
 <td title="/Users/harrypapas/Local Sites/harry-papas-portfolio/app/public/wp-content/themes/perfect-portfolio/inc/woocommerce-functions.php" bgcolor="#eeeeec">.../woocommerce-functions.php<b>:</b>0</td>
 </tr>
